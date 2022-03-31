@@ -1,2 +1,2 @@
-# information_assistant_Beta
+# information_assistant_beta
 A desktop launch companion.
